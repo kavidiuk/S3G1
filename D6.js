@@ -71,6 +71,11 @@ console.log(num1);
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
 
+function somma(num1) {
+  
+  
+}
+
 /* ESERCIZIO 5 (reduce)
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
